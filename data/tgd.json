@@ -1,0 +1,566 @@
+[
+  {
+    "Title": "The Good Doctor",
+    "Season": "1",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "Burnt Food",
+        "Released": "2017-09-25",
+        "Episode": "1",
+        "imdbRating": "8.7",
+        "imdbID": "tt6886400"
+      },
+      {
+        "Title": "Mount Rushmore",
+        "Released": "2017-10-02",
+        "Episode": "2",
+        "imdbRating": "8.5",
+        "imdbID": "tt7179006"
+      },
+      {
+        "Title": "Oliver",
+        "Released": "2017-10-09",
+        "Episode": "3",
+        "imdbRating": "N/A",
+        "imdbID": "tt7375334"
+      },
+      {
+        "Title": "Pipes",
+        "Released": "2017-10-16",
+        "Episode": "4",
+        "imdbRating": "N/A",
+        "imdbID": "tt7375342"
+      },
+      {
+        "Title": "Point Three Percent",
+        "Released": "2017-10-23",
+        "Episode": "5",
+        "imdbRating": "8.6",
+        "imdbID": "tt7375346"
+      },
+      {
+        "Title": "Not Fake",
+        "Released": "2017-10-30",
+        "Episode": "6",
+        "imdbRating": "N/A",
+        "imdbID": "tt7375350"
+      },
+      {
+        "Title": "22 Steps",
+        "Released": "2017-11-13",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt7521790"
+      },
+      {
+        "Title": "Apple",
+        "Released": "2017-11-20",
+        "Episode": "8",
+        "imdbRating": "8.5",
+        "imdbID": "tt7524390"
+      },
+      {
+        "Title": "Intangibles",
+        "Released": "2017-11-27",
+        "Episode": "9",
+        "imdbRating": "N/A",
+        "imdbID": "tt7524394"
+      },
+      {
+        "Title": "Sacrifice",
+        "Released": "2017-12-04",
+        "Episode": "10",
+        "imdbRating": "8.4",
+        "imdbID": "tt7536406"
+      },
+      {
+        "Title": "Islands: Part One",
+        "Released": "2018-01-08",
+        "Episode": "11",
+        "imdbRating": "7.8",
+        "imdbID": "tt7536382"
+      },
+      {
+        "Title": "Islands: Part Two",
+        "Released": "2018-01-15",
+        "Episode": "12",
+        "imdbRating": "8.2",
+        "imdbID": "tt7536386"
+      },
+      {
+        "Title": "Seven Reasons",
+        "Released": "2018-01-22",
+        "Episode": "13",
+        "imdbRating": "7.3",
+        "imdbID": "tt7557306"
+      },
+      {
+        "Title": "She",
+        "Released": "2018-02-05",
+        "Episode": "14",
+        "imdbRating": "7.1",
+        "imdbID": "tt7762884"
+      },
+      {
+        "Title": "Heartfelt",
+        "Released": "2018-02-26",
+        "Episode": "15",
+        "imdbRating": "7.4",
+        "imdbID": "tt7762890"
+      },
+      {
+        "Title": "Pain",
+        "Released": "2018-03-12",
+        "Episode": "16",
+        "imdbRating": "7.9",
+        "imdbID": "tt7762900"
+      },
+      {
+        "Title": "Smile",
+        "Released": "2018-03-19",
+        "Episode": "17",
+        "imdbRating": "8.3",
+        "imdbID": "tt7762904"
+      },
+      {
+        "Title": "More",
+        "Released": "2018-03-26",
+        "Episode": "18",
+        "imdbRating": "8.9",
+        "imdbID": "tt7762906"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Good Doctor",
+    "Season": "2",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "Hello",
+        "Released": "2018-09-24",
+        "Episode": "1",
+        "imdbRating": "8.3",
+        "imdbID": "tt8242670"
+      },
+      {
+        "Title": "Middle Ground",
+        "Released": "2018-10-01",
+        "Episode": "2",
+        "imdbRating": "8.5",
+        "imdbID": "tt8680760"
+      },
+      {
+        "Title": "36 Hours",
+        "Released": "2018-10-08",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt8707328"
+      },
+      {
+        "Title": "Tough Titmouse",
+        "Released": "2018-10-15",
+        "Episode": "4",
+        "imdbRating": "8.3",
+        "imdbID": "tt8970130"
+      },
+      {
+        "Title": "Carrots",
+        "Released": "2018-10-29",
+        "Episode": "5",
+        "imdbRating": "8.1",
+        "imdbID": "tt8970138"
+      },
+      {
+        "Title": "Two-Ply (or Not Two-Ply)",
+        "Released": "2018-11-05",
+        "Episode": "6",
+        "imdbRating": "N/A",
+        "imdbID": "tt8970140"
+      },
+      {
+        "Title": "Hubert",
+        "Released": "2018-11-12",
+        "Episode": "7",
+        "imdbRating": "8.0",
+        "imdbID": "tt8970142"
+      },
+      {
+        "Title": "Stories",
+        "Released": "2018-11-19",
+        "Episode": "8",
+        "imdbRating": "8.1",
+        "imdbID": "tt9174064"
+      },
+      {
+        "Title": "Empathy",
+        "Released": "2018-11-26",
+        "Episode": "9",
+        "imdbRating": "8.2",
+        "imdbID": "tt9248698"
+      },
+      {
+        "Title": "Quarantine",
+        "Released": "2018-12-03",
+        "Episode": "10",
+        "imdbRating": "9.1",
+        "imdbID": "tt9272854"
+      },
+      {
+        "Title": "Quarantine Part Two",
+        "Released": "2019-01-14",
+        "Episode": "11",
+        "imdbRating": "8.9",
+        "imdbID": "tt9389430"
+      },
+      {
+        "Title": "Aftermath",
+        "Released": "2019-01-21",
+        "Episode": "12",
+        "imdbRating": "8.0",
+        "imdbID": "tt9477126"
+      },
+      {
+        "Title": "Xin",
+        "Released": "2019-01-28",
+        "Episode": "13",
+        "imdbRating": "8.1",
+        "imdbID": "tt9477130"
+      },
+      {
+        "Title": "Faces",
+        "Released": "2019-02-04",
+        "Episode": "14",
+        "imdbRating": "8.8",
+        "imdbID": "tt9452780"
+      },
+      {
+        "Title": "Risk and Reward",
+        "Released": "2019-02-18",
+        "Episode": "15",
+        "imdbRating": "8.3",
+        "imdbID": "tt9442014"
+      },
+      {
+        "Title": "Believe",
+        "Released": "2019-02-25",
+        "Episode": "16",
+        "imdbRating": "8.1",
+        "imdbID": "tt9660058"
+      },
+      {
+        "Title": "Breakdown",
+        "Released": "2019-03-04",
+        "Episode": "17",
+        "imdbRating": "9.0",
+        "imdbID": "tt9660060"
+      },
+      {
+        "Title": "Trampoline",
+        "Released": "2019-03-11",
+        "Episode": "18",
+        "imdbRating": "9.1",
+        "imdbID": "tt9660062"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Good Doctor",
+    "Season": "3",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "Disaster",
+        "Released": "2019-09-23",
+        "Episode": "1",
+        "imdbRating": "8.1",
+        "imdbID": "tt9739388"
+      },
+      {
+        "Title": "Debts",
+        "Released": "2019-09-30",
+        "Episode": "2",
+        "imdbRating": "N/A",
+        "imdbID": "tt10700400"
+      },
+      {
+        "Title": "Claire",
+        "Released": "2019-10-07",
+        "Episode": "3",
+        "imdbRating": "8.6",
+        "imdbID": "tt10808042"
+      },
+      {
+        "Title": "Take My Hand",
+        "Released": "2019-10-14",
+        "Episode": "4",
+        "imdbRating": "7.9",
+        "imdbID": "tt10685692"
+      },
+      {
+        "Title": "First Case, Second Base",
+        "Released": "2019-10-21",
+        "Episode": "5",
+        "imdbRating": "8.1",
+        "imdbID": "tt11061846"
+      },
+      {
+        "Title": "45-Degree Angle",
+        "Released": "2019-11-04",
+        "Episode": "6",
+        "imdbRating": "7.8",
+        "imdbID": "tt10810120"
+      },
+      {
+        "Title": "SFAD",
+        "Released": "2019-11-11",
+        "Episode": "7",
+        "imdbRating": "8.2",
+        "imdbID": "tt11199364"
+      },
+      {
+        "Title": "Moonshot",
+        "Released": "2019-11-18",
+        "Episode": "8",
+        "imdbRating": "8.0",
+        "imdbID": "tt11149240"
+      },
+      {
+        "Title": "Incomplete",
+        "Released": "2019-11-25",
+        "Episode": "9",
+        "imdbRating": "7.7",
+        "imdbID": "tt11244584"
+      },
+      {
+        "Title": "Friends and Family",
+        "Released": "2019-12-02",
+        "Episode": "10",
+        "imdbRating": "8.8",
+        "imdbID": "tt11089196"
+      },
+      {
+        "Title": "Fractured",
+        "Released": "2020-01-13",
+        "Episode": "11",
+        "imdbRating": "8.0",
+        "imdbID": "tt11268752"
+      },
+      {
+        "Title": "Mutations",
+        "Released": "2020-01-20",
+        "Episode": "12",
+        "imdbRating": "N/A",
+        "imdbID": "tt11376716"
+      },
+      {
+        "Title": "Sex and Death",
+        "Released": "2020-01-27",
+        "Episode": "13",
+        "imdbRating": "7.8",
+        "imdbID": "tt11565446"
+      },
+      {
+        "Title": "Influence",
+        "Released": "2020-02-10",
+        "Episode": "14",
+        "imdbRating": "7.8",
+        "imdbID": "tt11317188"
+      },
+      {
+        "Title": "Unsaid",
+        "Released": "2020-02-17",
+        "Episode": "15",
+        "imdbRating": "8.1",
+        "imdbID": "tt11689722"
+      },
+      {
+        "Title": "Autopsy",
+        "Released": "2020-02-24",
+        "Episode": "16",
+        "imdbRating": "8.4",
+        "imdbID": "tt11689730"
+      },
+      {
+        "Title": "Fixation",
+        "Released": "2020-03-02",
+        "Episode": "17",
+        "imdbRating": "7.9",
+        "imdbID": "tt11718904"
+      },
+      {
+        "Title": "Heartbreak",
+        "Released": "2020-03-09",
+        "Episode": "18",
+        "imdbRating": "8.3",
+        "imdbID": "tt11718914"
+      },
+      {
+        "Title": "Hurt",
+        "Released": "2020-03-23",
+        "Episode": "19",
+        "imdbRating": "8.8",
+        "imdbID": "tt11914288"
+      },
+      {
+        "Title": "I Love You",
+        "Released": "2020-03-30",
+        "Episode": "20",
+        "imdbRating": "8.8",
+        "imdbID": "tt11914308"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Good Doctor",
+    "Season": "4",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "Frontline, Part 1",
+        "Released": "2020-11-02",
+        "Episode": "1",
+        "imdbRating": "7.4",
+        "imdbID": "tt12025954"
+      },
+      {
+        "Title": "Frontline, Part 2",
+        "Released": "2020-11-09",
+        "Episode": "2",
+        "imdbRating": "7.4",
+        "imdbID": "tt13351010"
+      },
+      {
+        "Title": "Newbies",
+        "Released": "2020-11-16",
+        "Episode": "3",
+        "imdbRating": "7.2",
+        "imdbID": "tt13252322"
+      },
+      {
+        "Title": "Not the Same",
+        "Released": "2020-11-23",
+        "Episode": "4",
+        "imdbRating": "7.7",
+        "imdbID": "tt13415870"
+      },
+      {
+        "Title": "Fault",
+        "Released": "2020-11-30",
+        "Episode": "5",
+        "imdbRating": "N/A",
+        "imdbID": "tt13475720"
+      },
+      {
+        "Title": "Lim",
+        "Released": "2021-01-11",
+        "Episode": "6",
+        "imdbRating": "7.5",
+        "imdbID": "tt13498152"
+      },
+      {
+        "Title": "The Uncertainty Principle",
+        "Released": "2021-01-18",
+        "Episode": "7",
+        "imdbRating": "7.7",
+        "imdbID": "tt13760916"
+      },
+      {
+        "Title": "Parenting",
+        "Released": "2021-01-25",
+        "Episode": "8",
+        "imdbRating": "8.0",
+        "imdbID": "tt13801958"
+      },
+      {
+        "Title": "Irresponsible Salad Bar Practices",
+        "Released": "2021-02-15",
+        "Episode": "9",
+        "imdbRating": "5.0",
+        "imdbID": "tt13945416"
+      },
+      {
+        "Title": "Decrypt",
+        "Released": "2021-02-22",
+        "Episode": "10",
+        "imdbRating": "7.7",
+        "imdbID": "tt13998324"
+      },
+      {
+        "Title": "We're All Crazy Sometimes",
+        "Released": "2021-03-08",
+        "Episode": "11",
+        "imdbRating": "8.4",
+        "imdbID": "tt14048616"
+      },
+      {
+        "Title": "Teeny Blue Eyes",
+        "Released": "2021-03-22",
+        "Episode": "12",
+        "imdbRating": "8.4",
+        "imdbID": "tt14202588"
+      },
+      {
+        "Title": "Spilled Milk",
+        "Released": "2021-03-29",
+        "Episode": "13",
+        "imdbRating": "7.7",
+        "imdbID": "tt14223286"
+      },
+      {
+        "Title": "Gender Reveal",
+        "Released": "2021-04-19",
+        "Episode": "14",
+        "imdbRating": "7.6",
+        "imdbID": "tt14402896"
+      },
+      {
+        "Title": "Waiting",
+        "Released": "2021-04-26",
+        "Episode": "15",
+        "imdbRating": "7.8",
+        "imdbID": "tt14420834"
+      },
+      {
+        "Title": "Dr. Ted",
+        "Released": "2021-05-10",
+        "Episode": "16",
+        "imdbRating": "8.5",
+        "imdbID": "tt14512260"
+      },
+      {
+        "Title": "Letting Go",
+        "Released": "2021-05-17",
+        "Episode": "17",
+        "imdbRating": "8.2",
+        "imdbID": "tt14551960"
+      },
+      {
+        "Title": "Forgive or Forget",
+        "Released": "2021-05-24",
+        "Episode": "18",
+        "imdbRating": "7.6",
+        "imdbID": "tt14597068"
+      },
+      {
+        "Title": "Venga",
+        "Released": "2021-05-31",
+        "Episode": "19",
+        "imdbRating": "8.3",
+        "imdbID": "tt14597070"
+      },
+      {
+        "Title": "Vamos",
+        "Released": "2021-06-07",
+        "Episode": "20",
+        "imdbRating": "8.6",
+        "imdbID": "tt14597076"
+      }
+    ],
+    "Response": "True"
+  }
+]

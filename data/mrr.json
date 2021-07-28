@@ -1,0 +1,349 @@
+[
+  {
+    "Title": "Mr. Robot",
+    "Season": "1",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "eps1.0_hellofriend.mov",
+        "Released": "2015-06-24",
+        "Episode": "1",
+        "imdbRating": "9.3",
+        "imdbID": "tt4652838"
+      },
+      {
+        "Title": "eps1.1_ones-and-zer0es.mpeg",
+        "Released": "2015-07-01",
+        "Episode": "2",
+        "imdbRating": "8.6",
+        "imdbID": "tt4686038"
+      },
+      {
+        "Title": "eps1.2_d3bug.mkv",
+        "Released": "2015-07-08",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt4730002"
+      },
+      {
+        "Title": "eps1.3_da3m0ns.mp4",
+        "Released": "2015-07-15",
+        "Episode": "4",
+        "imdbRating": "N/A",
+        "imdbID": "tt4659980"
+      },
+      {
+        "Title": "eps1.4_3xpl0its.wmv",
+        "Released": "2015-07-22",
+        "Episode": "5",
+        "imdbRating": "8.5",
+        "imdbID": "tt4730012"
+      },
+      {
+        "Title": "eps1.5_br4ve-trave1er.asf",
+        "Released": "2015-07-29",
+        "Episode": "6",
+        "imdbRating": "9.2",
+        "imdbID": "tt4730014"
+      },
+      {
+        "Title": "eps1.6_v1ew-s0urce.flv",
+        "Released": "2015-08-05",
+        "Episode": "7",
+        "imdbRating": "8.6",
+        "imdbID": "tt4730018"
+      },
+      {
+        "Title": "eps1.7_wh1ter0se.m4v",
+        "Released": "2015-08-12",
+        "Episode": "8",
+        "imdbRating": "9.5",
+        "imdbID": "tt4730026"
+      },
+      {
+        "Title": "eps1.8_m1rr0r1ng.qt",
+        "Released": "2015-08-19",
+        "Episode": "9",
+        "imdbRating": "9.3",
+        "imdbID": "tt4799588"
+      },
+      {
+        "Title": "eps1.9_zer0-day.avi",
+        "Released": "2015-09-02",
+        "Episode": "10",
+        "imdbRating": "8.9",
+        "imdbID": "tt4652854"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Mr. Robot",
+    "Season": "2",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "eps2.0_unm4sk-pt1.tc",
+        "Released": "2016-07-10",
+        "Episode": "1",
+        "imdbRating": "8.3",
+        "imdbID": "tt4901088"
+      },
+      {
+        "Title": "eps2.0_unm4sk-pt2.tc",
+        "Released": "2016-07-13",
+        "Episode": "2",
+        "imdbRating": "8.3",
+        "imdbID": "tt5342606"
+      },
+      {
+        "Title": "eps2.1_k3rnel-pan1c.ksd",
+        "Released": "2016-07-20",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt5344704"
+      },
+      {
+        "Title": "eps2.2_init_1.asec",
+        "Released": "2016-07-27",
+        "Episode": "4",
+        "imdbRating": "8.4",
+        "imdbID": "tt5344766"
+      },
+      {
+        "Title": "eps2.3_logic-b0mb.hc",
+        "Released": "2016-08-03",
+        "Episode": "5",
+        "imdbRating": "8.9",
+        "imdbID": "tt5344796"
+      },
+      {
+        "Title": "eps2.4_m4ster-s1ave.aes",
+        "Released": "2016-08-10",
+        "Episode": "6",
+        "imdbRating": "9.1",
+        "imdbID": "tt5345894"
+      },
+      {
+        "Title": "eps2.5_h4ndshake.sme",
+        "Released": "2016-08-17",
+        "Episode": "7",
+        "imdbRating": "9.3",
+        "imdbID": "tt5347278"
+      },
+      {
+        "Title": "eps2.6_succ3ss0r.p12",
+        "Released": "2016-08-24",
+        "Episode": "8",
+        "imdbRating": "8.6",
+        "imdbID": "tt5347318"
+      },
+      {
+        "Title": "eps2.7_init_5.fve",
+        "Released": "2016-08-31",
+        "Episode": "9",
+        "imdbRating": "8.6",
+        "imdbID": "tt5347322"
+      },
+      {
+        "Title": "eps2.8_h1dden-pr0cess.axx",
+        "Released": "2016-09-07",
+        "Episode": "10",
+        "imdbRating": "9.3",
+        "imdbID": "tt5347330"
+      },
+      {
+        "Title": "eps2.9_pyth0n-pt1.p7z",
+        "Released": "2016-09-14",
+        "Episode": "11",
+        "imdbRating": "8.6",
+        "imdbID": "tt5831628"
+      },
+      {
+        "Title": "eps2.9_pyth0n-pt2.p7z",
+        "Released": "2016-09-21",
+        "Episode": "12",
+        "imdbRating": "9.0",
+        "imdbID": "tt5831630"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Mr. Robot",
+    "Season": "3",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "eps3.0_power-saver-mode.h",
+        "Released": "2017-10-11",
+        "Episode": "1",
+        "imdbRating": "8.8",
+        "imdbID": "tt5970530"
+      },
+      {
+        "Title": "eps3.1_undo.gz",
+        "Released": "2017-10-18",
+        "Episode": "2",
+        "imdbRating": "9.2",
+        "imdbID": "tt6633686"
+      },
+      {
+        "Title": "eps3.2_legacy.so",
+        "Released": "2017-10-25",
+        "Episode": "3",
+        "imdbRating": "8.8",
+        "imdbID": "tt6633688"
+      },
+      {
+        "Title": "eps3.3_m3tadata.par2",
+        "Released": "2017-11-01",
+        "Episode": "4",
+        "imdbRating": "8.4",
+        "imdbID": "tt6633692"
+      },
+      {
+        "Title": "eps3.4_runtime-err0r.r00",
+        "Released": "2017-11-08",
+        "Episode": "5",
+        "imdbRating": "9.7",
+        "imdbID": "tt6633696"
+      },
+      {
+        "Title": "eps3.5_kill-pr0cess.inc",
+        "Released": "2017-11-15",
+        "Episode": "6",
+        "imdbRating": "9.7",
+        "imdbID": "tt6635194"
+      },
+      {
+        "Title": "eps3.6_fredrick+tanya.chk",
+        "Released": "2017-11-22",
+        "Episode": "7",
+        "imdbRating": "9.1",
+        "imdbID": "tt6635200"
+      },
+      {
+        "Title": "eps3.7_dont-delete-me.ko",
+        "Released": "2017-11-29",
+        "Episode": "8",
+        "imdbRating": "9.2",
+        "imdbID": "tt6635212"
+      },
+      {
+        "Title": "eps3.8_stage3.torrent",
+        "Released": "2017-12-06",
+        "Episode": "9",
+        "imdbRating": "8.7",
+        "imdbID": "tt6635210"
+      },
+      {
+        "Title": "shutdown -r",
+        "Released": "2017-12-13",
+        "Episode": "10",
+        "imdbRating": "9.6",
+        "imdbID": "tt6633682"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Mr. Robot",
+    "Season": "4",
+    "totalSeasons": "4",
+    "Episodes": [
+      {
+        "Title": "401 Unauthorized",
+        "Released": "2019-10-06",
+        "Episode": "1",
+        "imdbRating": "9.4",
+        "imdbID": "tt7748418"
+      },
+      {
+        "Title": "402 Payment Required",
+        "Released": "2019-10-13",
+        "Episode": "2",
+        "imdbRating": "8.9",
+        "imdbID": "tt8084154"
+      },
+      {
+        "Title": "403 Forbidden",
+        "Released": "2019-10-20",
+        "Episode": "3",
+        "imdbRating": "8.8",
+        "imdbID": "tt8084160"
+      },
+      {
+        "Title": "404 Not Found",
+        "Released": "2019-10-27",
+        "Episode": "4",
+        "imdbRating": "8.9",
+        "imdbID": "tt8084164"
+      },
+      {
+        "Title": "405 Method Not Allowed",
+        "Released": "2019-11-03",
+        "Episode": "5",
+        "imdbRating": "9.8",
+        "imdbID": "tt8084166"
+      },
+      {
+        "Title": "406 Not Acceptable",
+        "Released": "2019-11-10",
+        "Episode": "6",
+        "imdbRating": "9.2",
+        "imdbID": "tt8084172"
+      },
+      {
+        "Title": "407 Proxy Authentication Required",
+        "Released": "2019-11-17",
+        "Episode": "7",
+        "imdbRating": "9.9",
+        "imdbID": "tt8084176"
+      },
+      {
+        "Title": "408 Request Timeout",
+        "Released": "2019-11-24",
+        "Episode": "8",
+        "imdbRating": "9.3",
+        "imdbID": "tt8084178"
+      },
+      {
+        "Title": "409 Conflict",
+        "Released": "2019-12-01",
+        "Episode": "9",
+        "imdbRating": "9.8",
+        "imdbID": "tt8084180"
+      },
+      {
+        "Title": "410 Gone",
+        "Released": "2019-12-08",
+        "Episode": "10",
+        "imdbRating": "N/A",
+        "imdbID": "tt8084184"
+      },
+      {
+        "Title": "eXit",
+        "Released": "2019-12-15",
+        "Episode": "11",
+        "imdbRating": "9.5",
+        "imdbID": "tt8919312"
+      },
+      {
+        "Title": "whoami",
+        "Released": "2019-12-22",
+        "Episode": "12",
+        "imdbRating": "9.6",
+        "imdbID": "tt8919318"
+      },
+      {
+        "Title": "Hello, Elliot",
+        "Released": "2019-12-22",
+        "Episode": "13",
+        "imdbRating": "9.8",
+        "imdbID": "tt10883092"
+      }
+    ],
+    "Response": "True"
+  }
+]

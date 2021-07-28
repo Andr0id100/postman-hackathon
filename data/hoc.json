@@ -1,0 +1,561 @@
+[
+  {
+    "Title": "House of Cards",
+    "Season": "1",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 1",
+        "Released": "2013-02-01",
+        "Episode": "1",
+        "imdbRating": "8.6",
+        "imdbID": "tt2161930"
+      },
+      {
+        "Title": "Chapter 2",
+        "Released": "2013-02-01",
+        "Episode": "2",
+        "imdbRating": "8.6",
+        "imdbID": "tt2250466"
+      },
+      {
+        "Title": "Chapter 3",
+        "Released": "2013-02-01",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt2248444"
+      },
+      {
+        "Title": "Chapter 4",
+        "Released": "2013-02-01",
+        "Episode": "4",
+        "imdbRating": "8.2",
+        "imdbID": "tt2248422"
+      },
+      {
+        "Title": "Chapter 5",
+        "Released": "2013-02-01",
+        "Episode": "5",
+        "imdbRating": "8.5",
+        "imdbID": "tt2294870"
+      },
+      {
+        "Title": "Chapter 6",
+        "Released": "2013-02-01",
+        "Episode": "6",
+        "imdbRating": "8.6",
+        "imdbID": "tt2311910"
+      },
+      {
+        "Title": "Chapter 7",
+        "Released": "2013-02-01",
+        "Episode": "7",
+        "imdbRating": "8.1",
+        "imdbID": "tt2311926"
+      },
+      {
+        "Title": "Chapter 8",
+        "Released": "2013-02-01",
+        "Episode": "8",
+        "imdbRating": "7.7",
+        "imdbID": "tt2312714"
+      },
+      {
+        "Title": "Chapter 9",
+        "Released": "2013-02-01",
+        "Episode": "9",
+        "imdbRating": "8.5",
+        "imdbID": "tt2248426"
+      },
+      {
+        "Title": "Chapter 10",
+        "Released": "2013-02-01",
+        "Episode": "10",
+        "imdbRating": "8.8",
+        "imdbID": "tt2468204"
+      },
+      {
+        "Title": "Chapter 11",
+        "Released": "2013-02-01",
+        "Episode": "11",
+        "imdbRating": "9.1",
+        "imdbID": "tt2440660"
+      },
+      {
+        "Title": "Chapter 12",
+        "Released": "2013-02-01",
+        "Episode": "12",
+        "imdbRating": "8.5",
+        "imdbID": "tt2555986"
+      },
+      {
+        "Title": "Chapter 13",
+        "Released": "2013-02-01",
+        "Episode": "13",
+        "imdbRating": "8.9",
+        "imdbID": "tt2555988"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "House of Cards",
+    "Season": "2",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 14",
+        "Released": "2014-02-14",
+        "Episode": "1",
+        "imdbRating": "9.6",
+        "imdbID": "tt2811510"
+      },
+      {
+        "Title": "Chapter 15",
+        "Released": "2014-02-14",
+        "Episode": "2",
+        "imdbRating": "8.4",
+        "imdbID": "tt3221190"
+      },
+      {
+        "Title": "Chapter 16",
+        "Released": "2014-02-14",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt2990016"
+      },
+      {
+        "Title": "Chapter 17",
+        "Released": "2014-02-14",
+        "Episode": "4",
+        "imdbRating": "9.0",
+        "imdbID": "tt3001906"
+      },
+      {
+        "Title": "Chapter 18",
+        "Released": "2014-02-14",
+        "Episode": "5",
+        "imdbRating": "8.3",
+        "imdbID": "tt3001926"
+      },
+      {
+        "Title": "Chapter 19",
+        "Released": "2014-02-14",
+        "Episode": "6",
+        "imdbRating": "8.4",
+        "imdbID": "tt3221232"
+      },
+      {
+        "Title": "Chapter 20",
+        "Released": "2014-02-14",
+        "Episode": "7",
+        "imdbRating": "8.4",
+        "imdbID": "tt3147682"
+      },
+      {
+        "Title": "Chapter 21",
+        "Released": "2014-02-14",
+        "Episode": "8",
+        "imdbRating": "8.6",
+        "imdbID": "tt3147690"
+      },
+      {
+        "Title": "Chapter 22",
+        "Released": "2014-02-14",
+        "Episode": "9",
+        "imdbRating": "8.9",
+        "imdbID": "tt3186026"
+      },
+      {
+        "Title": "Chapter 23",
+        "Released": "2014-02-14",
+        "Episode": "10",
+        "imdbRating": "8.4",
+        "imdbID": "tt3221270"
+      },
+      {
+        "Title": "Chapter 24",
+        "Released": "2014-02-14",
+        "Episode": "11",
+        "imdbRating": "8.7",
+        "imdbID": "tt3297502"
+      },
+      {
+        "Title": "Chapter 25",
+        "Released": "2014-02-14",
+        "Episode": "12",
+        "imdbRating": "8.9",
+        "imdbID": "tt3326204"
+      },
+      {
+        "Title": "Chapter 26",
+        "Released": "2014-02-14",
+        "Episode": "13",
+        "imdbRating": "9.5",
+        "imdbID": "tt3326208"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "House of Cards",
+    "Season": "3",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 27",
+        "Released": "2015-02-27",
+        "Episode": "1",
+        "imdbRating": "8.1",
+        "imdbID": "tt3513862"
+      },
+      {
+        "Title": "Chapter 28",
+        "Released": "2015-02-27",
+        "Episode": "2",
+        "imdbRating": "8.5",
+        "imdbID": "tt3892086"
+      },
+      {
+        "Title": "Chapter 29",
+        "Released": "2015-02-27",
+        "Episode": "3",
+        "imdbRating": "8.6",
+        "imdbID": "tt3892088"
+      },
+      {
+        "Title": "Chapter 30",
+        "Released": "2015-02-27",
+        "Episode": "4",
+        "imdbRating": "8.3",
+        "imdbID": "tt3892094"
+      },
+      {
+        "Title": "Chapter 31",
+        "Released": "2015-02-27",
+        "Episode": "5",
+        "imdbRating": "8.2",
+        "imdbID": "tt3897442"
+      },
+      {
+        "Title": "Chapter 32",
+        "Released": "2015-02-27",
+        "Episode": "6",
+        "imdbRating": "9.1",
+        "imdbID": "tt3897454"
+      },
+      {
+        "Title": "Chapter 33",
+        "Released": "2015-02-27",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt3918768"
+      },
+      {
+        "Title": "Chapter 34",
+        "Released": "2015-02-27",
+        "Episode": "8",
+        "imdbRating": "8.2",
+        "imdbID": "tt4083028"
+      },
+      {
+        "Title": "Chapter 35",
+        "Released": "2015-02-27",
+        "Episode": "9",
+        "imdbRating": "8.4",
+        "imdbID": "tt4035250"
+      },
+      {
+        "Title": "Chapter 36",
+        "Released": "2015-02-27",
+        "Episode": "10",
+        "imdbRating": "8.2",
+        "imdbID": "tt4128566"
+      },
+      {
+        "Title": "Chapter 37",
+        "Released": "2015-02-27",
+        "Episode": "11",
+        "imdbRating": "9.0",
+        "imdbID": "tt4128572"
+      },
+      {
+        "Title": "Chapter 38",
+        "Released": "2015-02-27",
+        "Episode": "12",
+        "imdbRating": "8.8",
+        "imdbID": "tt4128574"
+      },
+      {
+        "Title": "Chapter 39",
+        "Released": "2015-02-27",
+        "Episode": "13",
+        "imdbRating": "9.0",
+        "imdbID": "tt4221826"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "House of Cards",
+    "Season": "4",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 40",
+        "Released": "2016-03-04",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt4498368"
+      },
+      {
+        "Title": "Chapter 41",
+        "Released": "2016-03-04",
+        "Episode": "2",
+        "imdbRating": "8.2",
+        "imdbID": "tt4817660"
+      },
+      {
+        "Title": "Chapter 42",
+        "Released": "2016-03-04",
+        "Episode": "3",
+        "imdbRating": "8.9",
+        "imdbID": "tt4817664"
+      },
+      {
+        "Title": "Chapter 43",
+        "Released": "2016-03-04",
+        "Episode": "4",
+        "imdbRating": "9.4",
+        "imdbID": "tt4817670"
+      },
+      {
+        "Title": "Chapter 44",
+        "Released": "2016-03-04",
+        "Episode": "5",
+        "imdbRating": "8.5",
+        "imdbID": "tt4949018"
+      },
+      {
+        "Title": "Chapter 45",
+        "Released": "2016-03-04",
+        "Episode": "6",
+        "imdbRating": "8.6",
+        "imdbID": "tt4949028"
+      },
+      {
+        "Title": "Chapter 46",
+        "Released": "2016-03-04",
+        "Episode": "7",
+        "imdbRating": "8.5",
+        "imdbID": "tt5025272"
+      },
+      {
+        "Title": "Chapter 47",
+        "Released": "2016-03-04",
+        "Episode": "8",
+        "imdbRating": "8.2",
+        "imdbID": "tt5095720"
+      },
+      {
+        "Title": "Chapter 48",
+        "Released": "2016-03-04",
+        "Episode": "9",
+        "imdbRating": "8.8",
+        "imdbID": "tt5083704"
+      },
+      {
+        "Title": "Chapter 49",
+        "Released": "2016-03-04",
+        "Episode": "10",
+        "imdbRating": "9.3",
+        "imdbID": "tt5095730"
+      },
+      {
+        "Title": "Chapter 50",
+        "Released": "2016-03-04",
+        "Episode": "11",
+        "imdbRating": "8.4",
+        "imdbID": "tt5095732"
+      },
+      {
+        "Title": "Chapter 51",
+        "Released": "2016-03-04",
+        "Episode": "12",
+        "imdbRating": "8.8",
+        "imdbID": "tt5095742"
+      },
+      {
+        "Title": "Chapter 52",
+        "Released": "2016-03-04",
+        "Episode": "13",
+        "imdbRating": "9.5",
+        "imdbID": "tt5095748"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "House of Cards",
+    "Season": "5",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 53",
+        "Released": "2017-05-30",
+        "Episode": "1",
+        "imdbRating": "8.3",
+        "imdbID": "tt5419058"
+      },
+      {
+        "Title": "Chapter 54",
+        "Released": "2017-05-30",
+        "Episode": "2",
+        "imdbRating": "8.1",
+        "imdbID": "tt5965956"
+      },
+      {
+        "Title": "Chapter 55",
+        "Released": "2017-05-30",
+        "Episode": "3",
+        "imdbRating": "8.1",
+        "imdbID": "tt6010608"
+      },
+      {
+        "Title": "Chapter 56",
+        "Released": "2017-05-30",
+        "Episode": "4",
+        "imdbRating": "8.6",
+        "imdbID": "tt6059620"
+      },
+      {
+        "Title": "Chapter 57",
+        "Released": "2017-05-30",
+        "Episode": "5",
+        "imdbRating": "8.0",
+        "imdbID": "tt6110792"
+      },
+      {
+        "Title": "Chapter 58",
+        "Released": "2017-05-30",
+        "Episode": "6",
+        "imdbRating": "7.8",
+        "imdbID": "tt6411836"
+      },
+      {
+        "Title": "Chapter 59",
+        "Released": "2017-05-30",
+        "Episode": "7",
+        "imdbRating": "8.3",
+        "imdbID": "tt6411844"
+      },
+      {
+        "Title": "Chapter 60",
+        "Released": "2017-05-30",
+        "Episode": "8",
+        "imdbRating": "8.0",
+        "imdbID": "tt6411838"
+      },
+      {
+        "Title": "Chapter 61",
+        "Released": "2017-05-30",
+        "Episode": "9",
+        "imdbRating": "8.0",
+        "imdbID": "tt6411842"
+      },
+      {
+        "Title": "Chapter 62",
+        "Released": "2017-05-30",
+        "Episode": "10",
+        "imdbRating": "8.3",
+        "imdbID": "tt6411846"
+      },
+      {
+        "Title": "Chapter 63",
+        "Released": "2017-05-30",
+        "Episode": "11",
+        "imdbRating": "8.4",
+        "imdbID": "tt6411854"
+      },
+      {
+        "Title": "Chapter 64",
+        "Released": "2017-05-30",
+        "Episode": "12",
+        "imdbRating": "9.1",
+        "imdbID": "tt6411858"
+      },
+      {
+        "Title": "Chapter 65",
+        "Released": "2017-05-30",
+        "Episode": "13",
+        "imdbRating": "8.4",
+        "imdbID": "tt6411862"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "House of Cards",
+    "Season": "6",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Chapter 66",
+        "Released": "2018-11-02",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt7538918"
+      },
+      {
+        "Title": "Chapter 67",
+        "Released": "2018-11-02",
+        "Episode": "2",
+        "imdbRating": "4.1",
+        "imdbID": "tt7576192"
+      },
+      {
+        "Title": "Chapter 68",
+        "Released": "2018-11-02",
+        "Episode": "3",
+        "imdbRating": "4.1",
+        "imdbID": "tt7576194"
+      },
+      {
+        "Title": "Chapter 69",
+        "Released": "2018-11-02",
+        "Episode": "4",
+        "imdbRating": "4.2",
+        "imdbID": "tt7576196"
+      },
+      {
+        "Title": "Chapter 70",
+        "Released": "2018-11-02",
+        "Episode": "5",
+        "imdbRating": "4.4",
+        "imdbID": "tt7576198"
+      },
+      {
+        "Title": "Chapter 71",
+        "Released": "2018-11-02",
+        "Episode": "6",
+        "imdbRating": "4.1",
+        "imdbID": "tt7576200"
+      },
+      {
+        "Title": "Chapter 72",
+        "Released": "2018-11-02",
+        "Episode": "7",
+        "imdbRating": "3.8",
+        "imdbID": "tt7576206"
+      },
+      {
+        "Title": "Chapter 73",
+        "Released": "2018-11-02",
+        "Episode": "8",
+        "imdbRating": "2.4",
+        "imdbID": "tt7576210"
+      }
+    ],
+    "Response": "True"
+  }
+]

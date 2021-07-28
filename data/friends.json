@@ -1,0 +1,1734 @@
+[
+  {
+    "Title": "Friends",
+    "Season": "1",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One Where Monica Gets a Roommate",
+        "Released": "1994-09-22",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583459"
+      },
+      {
+        "Title": "The One with the Sonogram at the End",
+        "Released": "1994-09-29",
+        "Episode": "2",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583647"
+      },
+      {
+        "Title": "The One with the Thumb",
+        "Released": "1994-10-06",
+        "Episode": "3",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583653"
+      },
+      {
+        "Title": "The One with George Stephanopoulos",
+        "Released": "1994-10-13",
+        "Episode": "4",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583521"
+      },
+      {
+        "Title": "The One with the East German Laundry Detergent",
+        "Released": "1994-10-20",
+        "Episode": "5",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583599"
+      },
+      {
+        "Title": "The One with the Butt",
+        "Released": "1994-10-27",
+        "Episode": "6",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583585"
+      },
+      {
+        "Title": "The One with the Blackout",
+        "Released": "1994-11-03",
+        "Episode": "7",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583579"
+      },
+      {
+        "Title": "The One Where Nana Dies Twice",
+        "Released": "1994-11-10",
+        "Episode": "8",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583462"
+      },
+      {
+        "Title": "The One Where Underdog Gets Away",
+        "Released": "1994-11-17",
+        "Episode": "9",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583492"
+      },
+      {
+        "Title": "The One with the Monkey",
+        "Released": "1994-12-15",
+        "Episode": "10",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583630"
+      },
+      {
+        "Title": "The One with Mrs. Bing",
+        "Released": "1995-01-05",
+        "Episode": "11",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583534"
+      },
+      {
+        "Title": "The One with the Dozen Lasagnas",
+        "Released": "1995-01-12",
+        "Episode": "12",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583598"
+      },
+      {
+        "Title": "The One with the Boobies",
+        "Released": "1995-01-19",
+        "Episode": "13",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583582"
+      },
+      {
+        "Title": "The One with the Candy Hearts",
+        "Released": "1995-02-09",
+        "Episode": "14",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583587"
+      },
+      {
+        "Title": "The One with the Stoned Guy",
+        "Released": "1995-02-16",
+        "Episode": "15",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583649"
+      },
+      {
+        "Title": "The One with Two Parts: Part 1",
+        "Released": "1995-02-23",
+        "Episode": "16",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583568"
+      },
+      {
+        "Title": "The One with Two Parts: Part 2",
+        "Released": "1995-02-23",
+        "Episode": "17",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583569"
+      },
+      {
+        "Title": "The One with All the Poker",
+        "Released": "1995-03-02",
+        "Episode": "18",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583510"
+      },
+      {
+        "Title": "The One Where the Monkey Gets Away",
+        "Released": "1995-03-09",
+        "Episode": "19",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583493"
+      },
+      {
+        "Title": "The One with the Evil Orthodontist",
+        "Released": "1995-04-06",
+        "Episode": "20",
+        "imdbRating": "7.8",
+        "imdbID": "tt0583602"
+      },
+      {
+        "Title": "The One with the Fake Monica",
+        "Released": "1995-04-27",
+        "Episode": "21",
+        "imdbRating": "7.8",
+        "imdbID": "tt0583603"
+      },
+      {
+        "Title": "The One with the Ick Factor",
+        "Released": "1995-05-04",
+        "Episode": "22",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583616"
+      },
+      {
+        "Title": "The One with the Birth",
+        "Released": "1995-05-11",
+        "Episode": "23",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583577"
+      },
+      {
+        "Title": "The One Where Rachel Finds Out",
+        "Released": "1995-05-18",
+        "Episode": "24",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583469"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "2",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One with Ross's New Girlfriend",
+        "Released": "1995-09-21",
+        "Episode": "1",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583562"
+      },
+      {
+        "Title": "The One with the Breast Milk",
+        "Released": "1995-09-28",
+        "Episode": "2",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583583"
+      },
+      {
+        "Title": "The One Where Heckles Dies",
+        "Released": "1995-10-05",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583453"
+      },
+      {
+        "Title": "The One with Phoebe's Husband",
+        "Released": "1995-10-12",
+        "Episode": "4",
+        "imdbRating": "7.9",
+        "imdbID": "tt0583539"
+      },
+      {
+        "Title": "The One with Five Steaks and an Eggplant",
+        "Released": "1995-10-19",
+        "Episode": "5",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583519"
+      },
+      {
+        "Title": "The One with the Baby on the Bus",
+        "Released": "1995-11-02",
+        "Episode": "6",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583574"
+      },
+      {
+        "Title": "The One Where Ross Finds Out",
+        "Released": "1995-11-09",
+        "Episode": "7",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583481"
+      },
+      {
+        "Title": "The One with the List",
+        "Released": "1995-11-16",
+        "Episode": "8",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583625"
+      },
+      {
+        "Title": "The One with Phoebe's Dad",
+        "Released": "1995-12-14",
+        "Episode": "9",
+        "imdbRating": "7.9",
+        "imdbID": "tt0583537"
+      },
+      {
+        "Title": "The One with Russ",
+        "Released": "1996-01-04",
+        "Episode": "10",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583567"
+      },
+      {
+        "Title": "The One with the Lesbian Wedding",
+        "Released": "1996-01-18",
+        "Episode": "11",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583624"
+      },
+      {
+        "Title": "The One After the Superbowl: Part 1",
+        "Released": "1996-01-28",
+        "Episode": "12",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583439"
+      },
+      {
+        "Title": "The One After the Superbowl: Part 2",
+        "Released": "1996-01-28",
+        "Episode": "13",
+        "imdbRating": "8.8",
+        "imdbID": "tt0831047"
+      },
+      {
+        "Title": "The One with the Prom Video",
+        "Released": "1996-02-01",
+        "Episode": "14",
+        "imdbRating": "9.4",
+        "imdbID": "tt0583635"
+      },
+      {
+        "Title": "The One Where Ross and Rachel... You Know",
+        "Released": "1996-02-08",
+        "Episode": "15",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583488"
+      },
+      {
+        "Title": "The One Where Joey Moves Out",
+        "Released": "1996-02-15",
+        "Episode": "16",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583456"
+      },
+      {
+        "Title": "The One Where Eddie Moves In",
+        "Released": "1996-02-22",
+        "Episode": "17",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583448"
+      },
+      {
+        "Title": "The One Where Dr. Ramoray Dies",
+        "Released": "1996-03-21",
+        "Episode": "18",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583447"
+      },
+      {
+        "Title": "The One Where Eddie Won't Go",
+        "Released": "1996-03-28",
+        "Episode": "19",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583449"
+      },
+      {
+        "Title": "The One Where Old Yeller Dies",
+        "Released": "1996-04-04",
+        "Episode": "20",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583465"
+      },
+      {
+        "Title": "The One with the Bullies",
+        "Released": "1996-04-25",
+        "Episode": "21",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583584"
+      },
+      {
+        "Title": "The One with the Two Parties",
+        "Released": "1996-05-02",
+        "Episode": "22",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583656"
+      },
+      {
+        "Title": "The One with the Chicken Pox",
+        "Released": "1996-05-09",
+        "Episode": "23",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583591"
+      },
+      {
+        "Title": "The One with Barry and Mindy's Wedding",
+        "Released": "1996-05-16",
+        "Episode": "24",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583514"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "3",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One with the Princess Leia Fantasy",
+        "Released": "1996-09-19",
+        "Episode": "1",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583634"
+      },
+      {
+        "Title": "The One Where No One's Ready",
+        "Released": "1996-09-26",
+        "Episode": "2",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583464"
+      },
+      {
+        "Title": "The One with the Jam",
+        "Released": "1996-10-03",
+        "Episode": "3",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583619"
+      },
+      {
+        "Title": "The One with the Metaphorical Tunnel",
+        "Released": "1996-10-10",
+        "Episode": "4",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583629"
+      },
+      {
+        "Title": "The One with Frank Jr.",
+        "Released": "1996-10-17",
+        "Episode": "5",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583520"
+      },
+      {
+        "Title": "The One with the Flashback",
+        "Released": "1996-10-31",
+        "Episode": "6",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583606"
+      },
+      {
+        "Title": "The One with the Race Car Bed",
+        "Released": "1996-11-07",
+        "Episode": "7",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583637"
+      },
+      {
+        "Title": "The One with the Giant Poking Device",
+        "Released": "1996-11-14",
+        "Episode": "8",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583609"
+      },
+      {
+        "Title": "The One with the Football",
+        "Released": "1996-11-21",
+        "Episode": "9",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583607"
+      },
+      {
+        "Title": "The One Where Rachel Quits",
+        "Released": "1996-12-12",
+        "Episode": "10",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583474"
+      },
+      {
+        "Title": "The One Where Chandler Can't Remember Which Sister",
+        "Released": "1997-01-09",
+        "Episode": "11",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583443"
+      },
+      {
+        "Title": "The One with All the Jealousy",
+        "Released": "1997-01-16",
+        "Episode": "12",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583506"
+      },
+      {
+        "Title": "The One Where Monica and Richard Are Just Friends",
+        "Released": "1997-01-30",
+        "Episode": "13",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583461"
+      },
+      {
+        "Title": "The One with Phoebe's Ex-Partner",
+        "Released": "1997-02-06",
+        "Episode": "14",
+        "imdbRating": "7.8",
+        "imdbID": "tt0583538"
+      },
+      {
+        "Title": "The One Where Ross and Rachel Take a Break",
+        "Released": "1997-02-13",
+        "Episode": "15",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583487"
+      },
+      {
+        "Title": "The One with the Morning After",
+        "Released": "1997-02-20",
+        "Episode": "16",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583501"
+      },
+      {
+        "Title": "The One Without the Ski Trip",
+        "Released": "1997-03-06",
+        "Episode": "17",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583495"
+      },
+      {
+        "Title": "The One with the Hypnosis Tape",
+        "Released": "1997-03-13",
+        "Episode": "18",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583615"
+      },
+      {
+        "Title": "The One with the Tiny T-Shirt",
+        "Released": "1997-03-27",
+        "Episode": "19",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583654"
+      },
+      {
+        "Title": "The One with the Dollhouse",
+        "Released": "1997-04-10",
+        "Episode": "20",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583596"
+      },
+      {
+        "Title": "The One with the Chick and the Duck",
+        "Released": "1997-04-17",
+        "Episode": "21",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583590"
+      },
+      {
+        "Title": "The One with the Screamer",
+        "Released": "1997-04-24",
+        "Episode": "22",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583643"
+      },
+      {
+        "Title": "The One with Ross's Thing",
+        "Released": "1997-05-01",
+        "Episode": "23",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583565"
+      },
+      {
+        "Title": "The One with the Ultimate Fighting Champion",
+        "Released": "1997-05-08",
+        "Episode": "24",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583657"
+      },
+      {
+        "Title": "The One at the Beach",
+        "Released": "1997-05-15",
+        "Episode": "25",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583496"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "4",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One with the Jellyfish",
+        "Released": "1997-09-25",
+        "Episode": "1",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583620"
+      },
+      {
+        "Title": "The One with the Cat",
+        "Released": "1997-10-02",
+        "Episode": "2",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583588"
+      },
+      {
+        "Title": "The One with the 'Cuffs",
+        "Released": "1997-10-09",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583571"
+      },
+      {
+        "Title": "The One with the Ballroom Dancing",
+        "Released": "1997-10-16",
+        "Episode": "4",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583576"
+      },
+      {
+        "Title": "The One with Joey's New Girlfriend",
+        "Released": "1997-10-30",
+        "Episode": "5",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583529"
+      },
+      {
+        "Title": "The One with the Dirty Girl",
+        "Released": "1997-11-06",
+        "Episode": "6",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583595"
+      },
+      {
+        "Title": "The One Where Chandler Crosses the Line",
+        "Released": "1997-11-13",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583444"
+      },
+      {
+        "Title": "The One with Chandler in a Box",
+        "Released": "1997-11-20",
+        "Episode": "8",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583515"
+      },
+      {
+        "Title": "The One Where They're Going to Party!",
+        "Released": "1997-12-11",
+        "Episode": "9",
+        "imdbRating": "7.9",
+        "imdbID": "tt0583490"
+      },
+      {
+        "Title": "The One with the Girl from Poughkeepsie",
+        "Released": "1997-12-18",
+        "Episode": "10",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583611"
+      },
+      {
+        "Title": "The One with Phoebe's Uterus",
+        "Released": "1998-01-08",
+        "Episode": "11",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583541"
+      },
+      {
+        "Title": "The One with the Embryos",
+        "Released": "1998-01-15",
+        "Episode": "12",
+        "imdbRating": "9.5",
+        "imdbID": "tt0583600"
+      },
+      {
+        "Title": "The One with Rachel's Crush",
+        "Released": "1998-01-29",
+        "Episode": "13",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583547"
+      },
+      {
+        "Title": "The One with Joey's Dirty Day",
+        "Released": "1998-02-05",
+        "Episode": "14",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583525"
+      },
+      {
+        "Title": "The One with All the Rugby",
+        "Released": "1998-02-26",
+        "Episode": "15",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583512"
+      },
+      {
+        "Title": "The One with the Fake Party",
+        "Released": "1998-03-19",
+        "Episode": "16",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583604"
+      },
+      {
+        "Title": "The One with the Free Porn",
+        "Released": "1998-03-26",
+        "Episode": "17",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583608"
+      },
+      {
+        "Title": "The One with Rachel's New Dress",
+        "Released": "1998-04-02",
+        "Episode": "18",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583552"
+      },
+      {
+        "Title": "The One with All the Haste",
+        "Released": "1998-04-09",
+        "Episode": "19",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583505"
+      },
+      {
+        "Title": "The One with All the Wedding Dresses",
+        "Released": "1998-04-16",
+        "Episode": "20",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583513"
+      },
+      {
+        "Title": "The One with the Invitation",
+        "Released": "1998-04-23",
+        "Episode": "21",
+        "imdbRating": "7.2",
+        "imdbID": "tt0583618"
+      },
+      {
+        "Title": "The One with the Worst Best Man Ever",
+        "Released": "1998-04-30",
+        "Episode": "22",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583659"
+      },
+      {
+        "Title": "The One with Ross's Wedding",
+        "Released": "1998-05-07",
+        "Episode": "23",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583566"
+      },
+      {
+        "Title": "The One with Ross's Wedding: Part 2",
+        "Released": "1998-05-07",
+        "Episode": "24",
+        "imdbRating": "9.2",
+        "imdbID": "tt0831991"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "5",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One After Ross Says Rachel",
+        "Released": "1998-09-24",
+        "Episode": "1",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583437"
+      },
+      {
+        "Title": "The One with All the Kissing",
+        "Released": "1998-10-01",
+        "Episode": "2",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583507"
+      },
+      {
+        "Title": "The One Hundredth",
+        "Released": "1998-10-08",
+        "Episode": "3",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583440"
+      },
+      {
+        "Title": "The One Where Phoebe Hates PBS",
+        "Released": "1998-10-18",
+        "Episode": "4",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583467"
+      },
+      {
+        "Title": "The One with the Kips",
+        "Released": "1998-10-29",
+        "Episode": "5",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583622"
+      },
+      {
+        "Title": "The One with the Yeti",
+        "Released": "1998-11-05",
+        "Episode": "6",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583660"
+      },
+      {
+        "Title": "The One Where Ross Moves In",
+        "Released": "1998-11-12",
+        "Episode": "7",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583486"
+      },
+      {
+        "Title": "The One with All the Thanksgivings",
+        "Released": "1998-11-19",
+        "Episode": "8",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583652"
+      },
+      {
+        "Title": "The One with Ross's Sandwich",
+        "Released": "1998-12-10",
+        "Episode": "9",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583563"
+      },
+      {
+        "Title": "The One with the Inappropriate Sister",
+        "Released": "1998-12-17",
+        "Episode": "10",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583617"
+      },
+      {
+        "Title": "The One with All the Resolutions",
+        "Released": "1999-01-07",
+        "Episode": "11",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583511"
+      },
+      {
+        "Title": "The One with Chandler's Work Laugh",
+        "Released": "1999-01-21",
+        "Episode": "12",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583517"
+      },
+      {
+        "Title": "The One with Joey's Bag",
+        "Released": "1999-02-04",
+        "Episode": "13",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583523"
+      },
+      {
+        "Title": "The One Where Everybody Finds Out",
+        "Released": "1999-02-11",
+        "Episode": "14",
+        "imdbRating": "9.7",
+        "imdbID": "tt0583452"
+      },
+      {
+        "Title": "The One with the Girl Who Hits Joey",
+        "Released": "1999-02-18",
+        "Episode": "15",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583610"
+      },
+      {
+        "Title": "The One with the Cop",
+        "Released": "1999-02-25",
+        "Episode": "16",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583593"
+      },
+      {
+        "Title": "The One with Rachel's Inadvertent Kiss",
+        "Released": "1999-03-18",
+        "Episode": "17",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583551"
+      },
+      {
+        "Title": "The One Where Rachel Smokes",
+        "Released": "1999-04-08",
+        "Episode": "18",
+        "imdbRating": "7.9",
+        "imdbID": "tt0583475"
+      },
+      {
+        "Title": "The One Where Ross Can't Flirt",
+        "Released": "1999-04-22",
+        "Episode": "19",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583479"
+      },
+      {
+        "Title": "The One with the Ride Along",
+        "Released": "1999-04-29",
+        "Episode": "20",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583639"
+      },
+      {
+        "Title": "The One with the Ball",
+        "Released": "1999-05-06",
+        "Episode": "21",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583575"
+      },
+      {
+        "Title": "The One with Joey's Big Break",
+        "Released": "1999-05-11",
+        "Episode": "22",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583524"
+      },
+      {
+        "Title": "The One in Vegas: Part 1",
+        "Released": "1999-05-20",
+        "Episode": "23",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583500"
+      },
+      {
+        "Title": "The One in Vegas: Part 2",
+        "Released": "1999-05-20",
+        "Episode": "24",
+        "imdbRating": "9.1",
+        "imdbID": "tt0831990"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "6",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One After Vegas",
+        "Released": "1999-09-23",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583438"
+      },
+      {
+        "Title": "The One Where Ross Hugs Rachel",
+        "Released": "1999-09-30",
+        "Episode": "2",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583483"
+      },
+      {
+        "Title": "The One with Ross's Denial",
+        "Released": "1999-10-07",
+        "Episode": "3",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583560"
+      },
+      {
+        "Title": "The One Where Joey Loses His Insurance",
+        "Released": "1999-10-14",
+        "Episode": "4",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583455"
+      },
+      {
+        "Title": "The One with Joey's Porsche",
+        "Released": "1999-10-21",
+        "Episode": "5",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583530"
+      },
+      {
+        "Title": "The One on the Last Night",
+        "Released": "1999-11-04",
+        "Episode": "6",
+        "imdbRating": "8.5",
+        "imdbID": "tt0756481"
+      },
+      {
+        "Title": "The One Where Phoebe Runs",
+        "Released": "1999-11-11",
+        "Episode": "7",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583468"
+      },
+      {
+        "Title": "The One with Ross' Teeth",
+        "Released": "1999-11-18",
+        "Episode": "8",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583559"
+      },
+      {
+        "Title": "The One Where Ross Got High",
+        "Released": "1999-11-25",
+        "Episode": "9",
+        "imdbRating": "9.2",
+        "imdbID": "tt0583482"
+      },
+      {
+        "Title": "The One with the Routine",
+        "Released": "1999-12-16",
+        "Episode": "10",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583641"
+      },
+      {
+        "Title": "The One with the Apothecary Table",
+        "Released": "2000-01-06",
+        "Episode": "11",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583572"
+      },
+      {
+        "Title": "The One with the Joke",
+        "Released": "2000-01-13",
+        "Episode": "12",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583621"
+      },
+      {
+        "Title": "The One with Rachel's Sister",
+        "Released": "2000-02-03",
+        "Episode": "13",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583555"
+      },
+      {
+        "Title": "The One Where Chandler Can't Cry",
+        "Released": "2000-02-10",
+        "Episode": "14",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583502"
+      },
+      {
+        "Title": "The One That Could Have Been",
+        "Released": "2000-02-17",
+        "Episode": "15",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583441"
+      },
+      {
+        "Title": "The One That Could Have Been",
+        "Released": "2000-02-17",
+        "Episode": "16",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583442"
+      },
+      {
+        "Title": "The One with Unagi",
+        "Released": "2000-02-24",
+        "Episode": "17",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583570"
+      },
+      {
+        "Title": "The One Where Ross Dates a Student",
+        "Released": "2000-03-09",
+        "Episode": "18",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583480"
+      },
+      {
+        "Title": "The One with Joey's Fridge",
+        "Released": "2000-03-23",
+        "Episode": "19",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583526"
+      },
+      {
+        "Title": "The One with Mac and C.H.E.E.S.E.",
+        "Released": "2000-04-13",
+        "Episode": "20",
+        "imdbRating": "7.4",
+        "imdbID": "tt0756482"
+      },
+      {
+        "Title": "The One Where Ross Meets Elizabeth's Dad",
+        "Released": "2000-04-27",
+        "Episode": "21",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583485"
+      },
+      {
+        "Title": "The One Where Paul's the Man",
+        "Released": "2000-05-04",
+        "Episode": "22",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583466"
+      },
+      {
+        "Title": "The One with the Ring",
+        "Released": "2000-05-11",
+        "Episode": "23",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583640"
+      },
+      {
+        "Title": "The One with the Proposal",
+        "Released": "2000-05-18",
+        "Episode": "24",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583636"
+      },
+      {
+        "Title": "The One with the Proposal",
+        "Released": "2000-05-18",
+        "Episode": "25",
+        "imdbRating": "9.3",
+        "imdbID": "tt0954401"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "7",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One with Monica's Thunder",
+        "Released": "2000-10-12",
+        "Episode": "1",
+        "imdbRating": "8.4",
+        "imdbID": "tt0756483"
+      },
+      {
+        "Title": "The One with Rachel's Book",
+        "Released": "2000-10-12",
+        "Episode": "2",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583546"
+      },
+      {
+        "Title": "The One with Phoebe's Cookies",
+        "Released": "2000-10-19",
+        "Episode": "3",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583536"
+      },
+      {
+        "Title": "The One with Rachel's Assistant",
+        "Released": "2000-10-26",
+        "Episode": "4",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583544"
+      },
+      {
+        "Title": "The One with the Engagement Picture",
+        "Released": "2000-11-02",
+        "Episode": "5",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583601"
+      },
+      {
+        "Title": "The One with the Nap Partners",
+        "Released": "2000-11-09",
+        "Episode": "6",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583632"
+      },
+      {
+        "Title": "The One with Ross's Library Book",
+        "Released": "2000-11-16",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583558"
+      },
+      {
+        "Title": "The One Where Chandler Doesn't Like Dogs",
+        "Released": "2000-11-23",
+        "Episode": "8",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583431"
+      },
+      {
+        "Title": "The One with All the Candy",
+        "Released": "2000-12-07",
+        "Episode": "9",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583503"
+      },
+      {
+        "Title": "The One with the Holiday Armadillo",
+        "Released": "2000-12-14",
+        "Episode": "10",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583613"
+      },
+      {
+        "Title": "The One with All the Cheesecakes",
+        "Released": "2001-01-04",
+        "Episode": "11",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583504"
+      },
+      {
+        "Title": "The One Where They're Up All Night",
+        "Released": "2001-01-11",
+        "Episode": "12",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583491"
+      },
+      {
+        "Title": "The One Where Rosita Dies",
+        "Released": "2001-02-01",
+        "Episode": "13",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583478"
+      },
+      {
+        "Title": "The One Where They All Turn Thirty",
+        "Released": "2001-02-08",
+        "Episode": "14",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583489"
+      },
+      {
+        "Title": "The One with Joey's New Brain",
+        "Released": "2001-02-15",
+        "Episode": "15",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583528"
+      },
+      {
+        "Title": "The One with the Truth About London",
+        "Released": "2001-02-22",
+        "Episode": "16",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583655"
+      },
+      {
+        "Title": "The One with the Cheap Wedding Dress",
+        "Released": "2001-03-15",
+        "Episode": "17",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583589"
+      },
+      {
+        "Title": "The One with Joey's Award",
+        "Released": "2001-03-29",
+        "Episode": "18",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583522"
+      },
+      {
+        "Title": "The One with Ross and Monica's Cousin",
+        "Released": "2001-04-19",
+        "Episode": "19",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583556"
+      },
+      {
+        "Title": "The One with Rachel's Big Kiss",
+        "Released": "2001-04-26",
+        "Episode": "20",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583545"
+      },
+      {
+        "Title": "The One with the Vows",
+        "Released": "2001-05-03",
+        "Episode": "21",
+        "imdbRating": "7.4",
+        "imdbID": "tt0756484"
+      },
+      {
+        "Title": "The One with Chandler's Dad",
+        "Released": "2001-05-10",
+        "Episode": "22",
+        "imdbRating": "8.4",
+        "imdbID": "tt0583516"
+      },
+      {
+        "Title": "The One with Monica and Chandler's Wedding: Part 1",
+        "Released": "2001-05-17",
+        "Episode": "23",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583531"
+      },
+      {
+        "Title": "The One with Monica and Chandler's Wedding: Part 2",
+        "Released": "2001-05-17",
+        "Episode": "24",
+        "imdbRating": "9.2",
+        "imdbID": "tt0583532"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "8",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One After I Do",
+        "Released": "2001-09-27",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583435"
+      },
+      {
+        "Title": "The One with the Red Sweater",
+        "Released": "2001-10-04",
+        "Episode": "2",
+        "imdbRating": "9.1",
+        "imdbID": "tt0583638"
+      },
+      {
+        "Title": "The One Where Rachel Tells...",
+        "Released": "2001-10-11",
+        "Episode": "3",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583476"
+      },
+      {
+        "Title": "The One with the Videotape",
+        "Released": "2001-10-18",
+        "Episode": "4",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583658"
+      },
+      {
+        "Title": "The One with Rachel's Date",
+        "Released": "2001-10-25",
+        "Episode": "5",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583548"
+      },
+      {
+        "Title": "The One with the Halloween Party",
+        "Released": "2001-11-01",
+        "Episode": "6",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583612"
+      },
+      {
+        "Title": "The One with the Stain",
+        "Released": "2001-11-08",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583648"
+      },
+      {
+        "Title": "The One with the Stripper",
+        "Released": "2001-11-15",
+        "Episode": "8",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583650"
+      },
+      {
+        "Title": "The One with the Rumor",
+        "Released": "2001-11-22",
+        "Episode": "9",
+        "imdbRating": "9.3",
+        "imdbID": "tt0583642"
+      },
+      {
+        "Title": "The One with Monica's Boots",
+        "Released": "2001-12-06",
+        "Episode": "10",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583533"
+      },
+      {
+        "Title": "The One with Ross's Step Forward",
+        "Released": "2001-12-13",
+        "Episode": "11",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583594"
+      },
+      {
+        "Title": "The One Where Joey Dates Rachel",
+        "Released": "2002-01-10",
+        "Episode": "12",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583454"
+      },
+      {
+        "Title": "The One Where Chandler Takes a Bath",
+        "Released": "2002-01-17",
+        "Episode": "13",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583446"
+      },
+      {
+        "Title": "The One with the Secret Closet",
+        "Released": "2002-01-31",
+        "Episode": "14",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583644"
+      },
+      {
+        "Title": "The One with the Birthing Video",
+        "Released": "2002-02-07",
+        "Episode": "15",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583578"
+      },
+      {
+        "Title": "The One Where Joey Tells Rachel",
+        "Released": "2002-02-28",
+        "Episode": "16",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583458"
+      },
+      {
+        "Title": "The One with the Tea Leaves",
+        "Released": "2002-03-07",
+        "Episode": "17",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583651"
+      },
+      {
+        "Title": "The One in Massapequa",
+        "Released": "2002-03-28",
+        "Episode": "18",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583499"
+      },
+      {
+        "Title": "The One with Joey's Interview",
+        "Released": "2002-04-04",
+        "Episode": "19",
+        "imdbRating": "7.4",
+        "imdbID": "tt0583527"
+      },
+      {
+        "Title": "The One with the Baby Shower",
+        "Released": "2002-04-25",
+        "Episode": "20",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583573"
+      },
+      {
+        "Title": "The One with the Cooking Class",
+        "Released": "2002-05-02",
+        "Episode": "21",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583592"
+      },
+      {
+        "Title": "The One Where Rachel Is Late",
+        "Released": "2002-05-09",
+        "Episode": "22",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583473"
+      },
+      {
+        "Title": "The One Where Rachel Has a Baby: Part 1",
+        "Released": "2002-05-16",
+        "Episode": "23",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583471"
+      },
+      {
+        "Title": "The One Where Rachel Has a Baby: Part 2",
+        "Released": "2002-05-16",
+        "Episode": "24",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583472"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "9",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One Where No One Proposes",
+        "Released": "2002-09-26",
+        "Episode": "1",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583463"
+      },
+      {
+        "Title": "The One Where Emma Cries",
+        "Released": "2002-10-03",
+        "Episode": "2",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583450"
+      },
+      {
+        "Title": "The One with the Pediatrician",
+        "Released": "2002-10-10",
+        "Episode": "3",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583633"
+      },
+      {
+        "Title": "The One with the Sharks",
+        "Released": "2002-10-17",
+        "Episode": "4",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583645"
+      },
+      {
+        "Title": "The One with Phoebe's Birthday Dinner",
+        "Released": "2002-10-31",
+        "Episode": "5",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583535"
+      },
+      {
+        "Title": "The One with the Male Nanny",
+        "Released": "2002-11-07",
+        "Episode": "6",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583627"
+      },
+      {
+        "Title": "The One with Ross's Inappropriate Song",
+        "Released": "2002-11-14",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583561"
+      },
+      {
+        "Title": "The One with Rachel's Other Sister",
+        "Released": "2002-11-21",
+        "Episode": "8",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583553"
+      },
+      {
+        "Title": "The One with Rachel's Phone Number",
+        "Released": "2002-12-05",
+        "Episode": "9",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583554"
+      },
+      {
+        "Title": "The One with Christmas in Tulsa",
+        "Released": "2002-12-12",
+        "Episode": "10",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583518"
+      },
+      {
+        "Title": "The One Where Rachel Goes Back to Work",
+        "Released": "2003-01-09",
+        "Episode": "11",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583470"
+      },
+      {
+        "Title": "The One with Phoebe's Rats",
+        "Released": "2003-01-16",
+        "Episode": "12",
+        "imdbRating": "7.9",
+        "imdbID": "tt0583540"
+      },
+      {
+        "Title": "The One Where Monica Sings",
+        "Released": "2003-01-30",
+        "Episode": "13",
+        "imdbRating": "8.1",
+        "imdbID": "tt0583460"
+      },
+      {
+        "Title": "The One with the Blind Dates",
+        "Released": "2003-02-06",
+        "Episode": "14",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583580"
+      },
+      {
+        "Title": "The One with the Mugging",
+        "Released": "2003-02-13",
+        "Episode": "15",
+        "imdbRating": "8.3",
+        "imdbID": "tt0583631"
+      },
+      {
+        "Title": "The One with the Boob Job",
+        "Released": "2003-02-20",
+        "Episode": "16",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583581"
+      },
+      {
+        "Title": "The One with the Memorial Service",
+        "Released": "2003-03-13",
+        "Episode": "17",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583628"
+      },
+      {
+        "Title": "The One with the Lottery",
+        "Released": "2003-04-03",
+        "Episode": "18",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583626"
+      },
+      {
+        "Title": "The One with Rachel's Dream",
+        "Released": "2003-04-17",
+        "Episode": "19",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583549"
+      },
+      {
+        "Title": "The One with the Soap Opera Party",
+        "Released": "2003-04-24",
+        "Episode": "20",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583646"
+      },
+      {
+        "Title": "The One with the Fertility Test",
+        "Released": "2003-05-01",
+        "Episode": "21",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583605"
+      },
+      {
+        "Title": "The One with the Donor",
+        "Released": "2003-05-08",
+        "Episode": "22",
+        "imdbRating": "7.8",
+        "imdbID": "tt0583597"
+      },
+      {
+        "Title": "The One in Barbados",
+        "Released": "2003-05-15",
+        "Episode": "23",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583497"
+      },
+      {
+        "Title": "The One in Barbados",
+        "Released": "2003-05-15",
+        "Episode": "24",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583498"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Season": "10",
+    "totalSeasons": "10",
+    "Episodes": [
+      {
+        "Title": "The One After Joey and Rachel Kiss",
+        "Released": "2003-09-25",
+        "Episode": "1",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583436"
+      },
+      {
+        "Title": "The One Where Ross Is Fine",
+        "Released": "2003-10-02",
+        "Episode": "2",
+        "imdbRating": "8.8",
+        "imdbID": "tt0583484"
+      },
+      {
+        "Title": "The One with Ross's Tan",
+        "Released": "2003-10-09",
+        "Episode": "3",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583564"
+      },
+      {
+        "Title": "The One with the Cake",
+        "Released": "2003-10-23",
+        "Episode": "4",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583586"
+      },
+      {
+        "Title": "The One Where Rachel's Sister Babysits",
+        "Released": "2003-10-30",
+        "Episode": "5",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583477"
+      },
+      {
+        "Title": "The One with Ross' Grant",
+        "Released": "2003-11-06",
+        "Episode": "6",
+        "imdbRating": "8.2",
+        "imdbID": "tt0583557"
+      },
+      {
+        "Title": "The One with the Home Study",
+        "Released": "2003-11-13",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583614"
+      },
+      {
+        "Title": "The One with the Late Thanksgiving",
+        "Released": "2003-11-20",
+        "Episode": "8",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583623"
+      },
+      {
+        "Title": "The One with the Birth Mother",
+        "Released": "2004-01-08",
+        "Episode": "9",
+        "imdbRating": "8.6",
+        "imdbID": "tt0583432"
+      },
+      {
+        "Title": "The One Where Chandler Gets Caught",
+        "Released": "2004-01-15",
+        "Episode": "10",
+        "imdbRating": "8.0",
+        "imdbID": "tt0583445"
+      },
+      {
+        "Title": "The One Where the Stripper Cries",
+        "Released": "2004-02-05",
+        "Episode": "11",
+        "imdbRating": "9.0",
+        "imdbID": "tt0583494"
+      },
+      {
+        "Title": "The One with Phoebe's Wedding",
+        "Released": "2004-02-12",
+        "Episode": "12",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583542"
+      },
+      {
+        "Title": "The One Where Joey Speaks French",
+        "Released": "2004-02-19",
+        "Episode": "13",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583457"
+      },
+      {
+        "Title": "The One with Princess Consuela",
+        "Released": "2004-02-26",
+        "Episode": "14",
+        "imdbRating": "N/A",
+        "imdbID": "tt0583543"
+      },
+      {
+        "Title": "The One Where Estelle Dies",
+        "Released": "2004-04-22",
+        "Episode": "15",
+        "imdbRating": "8.5",
+        "imdbID": "tt0583451"
+      },
+      {
+        "Title": "The One with Rachel's Going Away Party",
+        "Released": "2004-04-29",
+        "Episode": "16",
+        "imdbRating": "8.9",
+        "imdbID": "tt0583550"
+      },
+      {
+        "Title": "The Last One",
+        "Released": "2004-05-06",
+        "Episode": "17",
+        "imdbRating": "9.7",
+        "imdbID": "tt0583433"
+      },
+      {
+        "Title": "The One with All the Other Ones: Part 2",
+        "Released": "2004-05-06",
+        "Episode": "18",
+        "imdbRating": "8.7",
+        "imdbID": "tt0583509"
+      }
+    ],
+    "Response": "True"
+  }
+]

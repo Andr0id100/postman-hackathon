@@ -1,0 +1,302 @@
+[
+  {
+    "Title": "Line of Duty",
+    "Season": "1",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "A Disastrous Affair",
+        "Released": "2012-08-21",
+        "Episode": "1",
+        "imdbRating": "7.9",
+        "imdbID": "tt2384267"
+      },
+      {
+        "Title": "The Assault",
+        "Released": "2012-08-28",
+        "Episode": "2",
+        "imdbRating": "8.2",
+        "imdbID": "tt2388095"
+      },
+      {
+        "Title": "In the Trap",
+        "Released": "2012-09-04",
+        "Episode": "3",
+        "imdbRating": "8.1",
+        "imdbID": "tt2393075"
+      },
+      {
+        "Title": "Terror",
+        "Released": "2012-09-11",
+        "Episode": "4",
+        "imdbRating": "8.2",
+        "imdbID": "tt2392125"
+      },
+      {
+        "Title": "The Probation",
+        "Released": "2012-09-18",
+        "Episode": "5",
+        "imdbRating": "8.4",
+        "imdbID": "tt2356337"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Line of Duty",
+    "Season": "2",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "The Ambush",
+        "Released": "2014-02-12",
+        "Episode": "1",
+        "imdbRating": "8.6",
+        "imdbID": "tt3162268"
+      },
+      {
+        "Title": "Carly",
+        "Released": "2014-02-19",
+        "Episode": "2",
+        "imdbRating": "8.6",
+        "imdbID": "tt3162272"
+      },
+      {
+        "Title": "Behind Bars",
+        "Released": "2014-02-26",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt3162274"
+      },
+      {
+        "Title": "Blood Money",
+        "Released": "2014-03-05",
+        "Episode": "4",
+        "imdbRating": "8.6",
+        "imdbID": "tt3162276"
+      },
+      {
+        "Title": "Last Words",
+        "Released": "2014-03-12",
+        "Episode": "5",
+        "imdbRating": "8.7",
+        "imdbID": "tt3162280"
+      },
+      {
+        "Title": "The Caddy",
+        "Released": "2014-03-19",
+        "Episode": "6",
+        "imdbRating": "8.3",
+        "imdbID": "tt3162282"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Line of Duty",
+    "Season": "3",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Monsters",
+        "Released": "2016-03-24",
+        "Episode": "1",
+        "imdbRating": "8.8",
+        "imdbID": "tt4881332"
+      },
+      {
+        "Title": "The Process",
+        "Released": "2016-03-31",
+        "Episode": "2",
+        "imdbRating": "8.5",
+        "imdbID": "tt4881336"
+      },
+      {
+        "Title": "Snake Pit",
+        "Released": "2016-04-07",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt5072082"
+      },
+      {
+        "Title": "Negative Pressure",
+        "Released": "2016-04-14",
+        "Episode": "4",
+        "imdbRating": "8.5",
+        "imdbID": "tt5072086"
+      },
+      {
+        "Title": "The List",
+        "Released": "2016-04-21",
+        "Episode": "5",
+        "imdbRating": "9.2",
+        "imdbID": "tt5072094"
+      },
+      {
+        "Title": "Episode #3.6",
+        "Released": "2016-04-28",
+        "Episode": "6",
+        "imdbRating": "9.8",
+        "imdbID": "tt5072092"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Line of Duty",
+    "Season": "4",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Episode #4.1",
+        "Released": "2017-03-26",
+        "Episode": "1",
+        "imdbRating": "8.7",
+        "imdbID": "tt5760408"
+      },
+      {
+        "Title": "Who Sows the Wind",
+        "Released": "2017-04-02",
+        "Episode": "2",
+        "imdbRating": "8.3",
+        "imdbID": "tt6148516"
+      },
+      {
+        "Title": "Episode #4.3",
+        "Released": "2017-04-09",
+        "Episode": "3",
+        "imdbRating": "9.5",
+        "imdbID": "tt6148492"
+      },
+      {
+        "Title": "Episode #4.4",
+        "Released": "2017-04-16",
+        "Episode": "4",
+        "imdbRating": "8.7",
+        "imdbID": "tt6148548"
+      },
+      {
+        "Title": "Lying Nest",
+        "Released": "2017-04-23",
+        "Episode": "5",
+        "imdbRating": "N/A",
+        "imdbID": "tt6148560"
+      },
+      {
+        "Title": "Royal Hunting Ground",
+        "Released": "2017-04-30",
+        "Episode": "6",
+        "imdbRating": "9.1",
+        "imdbID": "tt6158184"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Line of Duty",
+    "Season": "5",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Episode #5.1",
+        "Released": "2019-03-31",
+        "Episode": "1",
+        "imdbRating": "8.7",
+        "imdbID": "tt7251220"
+      },
+      {
+        "Title": "Episode #5.2",
+        "Released": "2019-04-07",
+        "Episode": "2",
+        "imdbRating": "8.7",
+        "imdbID": "tt7814138"
+      },
+      {
+        "Title": "Episode #5.3",
+        "Released": "2019-04-14",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt7814140"
+      },
+      {
+        "Title": "Episode #5.4",
+        "Released": "2019-04-21",
+        "Episode": "4",
+        "imdbRating": "9.1",
+        "imdbID": "tt7814136"
+      },
+      {
+        "Title": "Episode #5.5",
+        "Released": "2019-04-28",
+        "Episode": "5",
+        "imdbRating": "8.6",
+        "imdbID": "tt7981396"
+      },
+      {
+        "Title": "Episode #5.6",
+        "Released": "2019-05-05",
+        "Episode": "6",
+        "imdbRating": "8.5",
+        "imdbID": "tt7981400"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Line of Duty",
+    "Season": "6",
+    "totalSeasons": "6",
+    "Episodes": [
+      {
+        "Title": "Episode #6.1",
+        "Released": "2021-03-21",
+        "Episode": "1",
+        "imdbRating": "7.8",
+        "imdbID": "tt7814142"
+      },
+      {
+        "Title": "Episode #6.2",
+        "Released": "2021-03-28",
+        "Episode": "2",
+        "imdbRating": "8.2",
+        "imdbID": "tt7814144"
+      },
+      {
+        "Title": "Episode #6.3",
+        "Released": "2021-04-04",
+        "Episode": "3",
+        "imdbRating": "8.4",
+        "imdbID": "tt7814148"
+      },
+      {
+        "Title": "Episode #6.4",
+        "Released": "2021-04-11",
+        "Episode": "4",
+        "imdbRating": "9.2",
+        "imdbID": "tt7814146"
+      },
+      {
+        "Title": "Episode #6.5",
+        "Released": "2021-04-18",
+        "Episode": "5",
+        "imdbRating": "9.4",
+        "imdbID": "tt7985700"
+      },
+      {
+        "Title": "Episode #6.6",
+        "Released": "2021-04-25",
+        "Episode": "6",
+        "imdbRating": "8.6",
+        "imdbID": "tt7985702"
+      },
+      {
+        "Title": "Episode #6.7",
+        "Released": "2021-05-02",
+        "Episode": "7",
+        "imdbRating": "N/A",
+        "imdbID": "tt13968694"
+      }
+    ],
+    "Response": "True"
+  }
+]

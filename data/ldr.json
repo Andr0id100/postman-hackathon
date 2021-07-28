@@ -1,0 +1,200 @@
+[
+  {
+    "Title": "Love, Death & Robots",
+    "Season": "1",
+    "totalSeasons": "2",
+    "Episodes": [
+      {
+        "Title": "Sonnie's Edge",
+        "Released": "2019-03-15",
+        "Episode": "1",
+        "imdbRating": "8.3",
+        "imdbID": "tt9781722"
+      },
+      {
+        "Title": "Three Robots",
+        "Released": "2019-03-15",
+        "Episode": "2",
+        "imdbRating": "8.0",
+        "imdbID": "tt9788484"
+      },
+      {
+        "Title": "The Witness",
+        "Released": "2019-03-15",
+        "Episode": "3",
+        "imdbRating": "7.8",
+        "imdbID": "tt9788486"
+      },
+      {
+        "Title": "Suits",
+        "Released": "2019-03-15",
+        "Episode": "4",
+        "imdbRating": "7.5",
+        "imdbID": "tt9788490"
+      },
+      {
+        "Title": "Sucker of Souls",
+        "Released": "2019-03-15",
+        "Episode": "5",
+        "imdbRating": "6.5",
+        "imdbID": "tt9788492"
+      },
+      {
+        "Title": "When the Yogurt Took Over",
+        "Released": "2019-03-15",
+        "Episode": "6",
+        "imdbRating": "6.9",
+        "imdbID": "tt9788494"
+      },
+      {
+        "Title": "Beyond the Aquila Rift",
+        "Released": "2019-03-15",
+        "Episode": "7",
+        "imdbRating": "8.6",
+        "imdbID": "tt9788496"
+      },
+      {
+        "Title": "Good Hunting",
+        "Released": "2019-03-15",
+        "Episode": "8",
+        "imdbRating": "8.1",
+        "imdbID": "tt9788498"
+      },
+      {
+        "Title": "The Dump",
+        "Released": "2019-03-15",
+        "Episode": "9",
+        "imdbRating": "6.3",
+        "imdbID": "tt9788500"
+      },
+      {
+        "Title": "Shape-Shifters",
+        "Released": "2019-03-15",
+        "Episode": "10",
+        "imdbRating": "7.5",
+        "imdbID": "tt9788502"
+      },
+      {
+        "Title": "Helping Hand",
+        "Released": "2019-03-15",
+        "Episode": "11",
+        "imdbRating": "7.4",
+        "imdbID": "tt9788504"
+      },
+      {
+        "Title": "Fish Night",
+        "Released": "2019-03-15",
+        "Episode": "12",
+        "imdbRating": "6.4",
+        "imdbID": "tt9788506"
+      },
+      {
+        "Title": "Lucky 13",
+        "Released": "2019-03-15",
+        "Episode": "13",
+        "imdbRating": "7.5",
+        "imdbID": "tt9788508"
+      },
+      {
+        "Title": "Zima Blue",
+        "Released": "2019-03-15",
+        "Episode": "14",
+        "imdbRating": "8.4",
+        "imdbID": "tt9788510"
+      },
+      {
+        "Title": "Blind Spot",
+        "Released": "2019-03-15",
+        "Episode": "15",
+        "imdbRating": "6.4",
+        "imdbID": "tt9788512"
+      },
+      {
+        "Title": "Ice Age",
+        "Released": "2019-03-15",
+        "Episode": "16",
+        "imdbRating": "7.0",
+        "imdbID": "tt9788514"
+      },
+      {
+        "Title": "Alternate Histories",
+        "Released": "2019-03-15",
+        "Episode": "17",
+        "imdbRating": "6.4",
+        "imdbID": "tt9788516"
+      },
+      {
+        "Title": "The Secret War",
+        "Released": "2019-03-15",
+        "Episode": "18",
+        "imdbRating": "8.2",
+        "imdbID": "tt9788518"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "Love, Death & Robots",
+    "Season": "2",
+    "totalSeasons": "2",
+    "Episodes": [
+      {
+        "Title": "Automated Customer Service",
+        "Released": "2021-05-14",
+        "Episode": "1",
+        "imdbRating": "6.5",
+        "imdbID": "tt14536130"
+      },
+      {
+        "Title": "Ice",
+        "Released": "2021-05-14",
+        "Episode": "2",
+        "imdbRating": "6.1",
+        "imdbID": "tt14536106"
+      },
+      {
+        "Title": "Pop Squad",
+        "Released": "2021-05-14",
+        "Episode": "3",
+        "imdbRating": "8.1",
+        "imdbID": "tt10468230"
+      },
+      {
+        "Title": "Snow in the Desert",
+        "Released": "2021-05-14",
+        "Episode": "4",
+        "imdbRating": "8.0",
+        "imdbID": "tt14536160"
+      },
+      {
+        "Title": "The Tall Grass",
+        "Released": "2021-05-14",
+        "Episode": "5",
+        "imdbRating": "7.0",
+        "imdbID": "tt14536118"
+      },
+      {
+        "Title": "All Through the House",
+        "Released": "2021-05-14",
+        "Episode": "6",
+        "imdbRating": "7.4",
+        "imdbID": "tt14536144"
+      },
+      {
+        "Title": "Life Hutch",
+        "Released": "2021-05-14",
+        "Episode": "7",
+        "imdbRating": "6.6",
+        "imdbID": "tt14519762"
+      },
+      {
+        "Title": "The Drowned Giant",
+        "Released": "2021-05-14",
+        "Episode": "8",
+        "imdbRating": "7.0",
+        "imdbID": "tt14536156"
+      }
+    ],
+    "Response": "True"
+  }
+]

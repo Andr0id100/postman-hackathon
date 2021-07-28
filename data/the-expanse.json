@@ -1,0 +1,434 @@
+[
+  {
+    "Title": "The Expanse",
+    "Season": "1",
+    "totalSeasons": "5",
+    "Episodes": [
+      {
+        "Title": "Dulcinea",
+        "Released": "2015-11-23",
+        "Episode": "1",
+        "imdbRating": "7.7",
+        "imdbID": "tt3982200"
+      },
+      {
+        "Title": "The Big Empty",
+        "Released": "2015-12-15",
+        "Episode": "2",
+        "imdbRating": "7.7",
+        "imdbID": "tt3982202"
+      },
+      {
+        "Title": "Remember the Cant",
+        "Released": "2015-12-16",
+        "Episode": "3",
+        "imdbRating": "8.0",
+        "imdbID": "tt3983220"
+      },
+      {
+        "Title": "CQB",
+        "Released": "2015-12-16",
+        "Episode": "4",
+        "imdbRating": "8.7",
+        "imdbID": "tt3983230"
+      },
+      {
+        "Title": "Back to the Butcher",
+        "Released": "2016-01-05",
+        "Episode": "5",
+        "imdbRating": "7.8",
+        "imdbID": "tt3983242"
+      },
+      {
+        "Title": "Rock Bottom",
+        "Released": "2016-01-12",
+        "Episode": "6",
+        "imdbRating": "8.0",
+        "imdbID": "tt3983500"
+      },
+      {
+        "Title": "Windmills",
+        "Released": "2016-01-19",
+        "Episode": "7",
+        "imdbRating": "7.9",
+        "imdbID": "tt3983524"
+      },
+      {
+        "Title": "Salvage",
+        "Released": "2016-01-26",
+        "Episode": "8",
+        "imdbRating": "8.7",
+        "imdbID": "tt3983526"
+      },
+      {
+        "Title": "Critical Mass",
+        "Released": "2016-02-02",
+        "Episode": "9",
+        "imdbRating": "8.7",
+        "imdbID": "tt3983528"
+      },
+      {
+        "Title": "Leviathan Wakes",
+        "Released": "2016-02-02",
+        "Episode": "10",
+        "imdbRating": "8.7",
+        "imdbID": "tt3983534"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Expanse",
+    "Season": "2",
+    "totalSeasons": "5",
+    "Episodes": [
+      {
+        "Title": "Safe",
+        "Released": "2017-02-01",
+        "Episode": "1",
+        "imdbRating": "8.2",
+        "imdbID": "tt5312444"
+      },
+      {
+        "Title": "Doors & Corners",
+        "Released": "2017-02-01",
+        "Episode": "2",
+        "imdbRating": "N/A",
+        "imdbID": "tt5625514"
+      },
+      {
+        "Title": "Static",
+        "Released": "2017-02-08",
+        "Episode": "3",
+        "imdbRating": "8.3",
+        "imdbID": "tt5625502"
+      },
+      {
+        "Title": "Godspeed",
+        "Released": "2017-02-15",
+        "Episode": "4",
+        "imdbRating": "9.0",
+        "imdbID": "tt5625506"
+      },
+      {
+        "Title": "Home",
+        "Released": "2017-02-22",
+        "Episode": "5",
+        "imdbRating": "9.5",
+        "imdbID": "tt5625510"
+      },
+      {
+        "Title": "Paradigm Shift",
+        "Released": "2017-03-01",
+        "Episode": "6",
+        "imdbRating": "8.5",
+        "imdbID": "tt5625512"
+      },
+      {
+        "Title": "The Seventh Man",
+        "Released": "2017-03-08",
+        "Episode": "7",
+        "imdbRating": "8.1",
+        "imdbID": "tt5812224"
+      },
+      {
+        "Title": "Pyre",
+        "Released": "2017-03-15",
+        "Episode": "8",
+        "imdbRating": "8.3",
+        "imdbID": "tt5847512"
+      },
+      {
+        "Title": "The Weeping Somnambulist",
+        "Released": "2017-03-22",
+        "Episode": "9",
+        "imdbRating": "8.2",
+        "imdbID": "tt5847532"
+      },
+      {
+        "Title": "Cascade",
+        "Released": "2017-03-29",
+        "Episode": "10",
+        "imdbRating": "8.3",
+        "imdbID": "tt5881396"
+      },
+      {
+        "Title": "Here There Be Dragons",
+        "Released": "2017-04-05",
+        "Episode": "11",
+        "imdbRating": "8.8",
+        "imdbID": "tt6083958"
+      },
+      {
+        "Title": "The Monster and the Rocket",
+        "Released": "2017-04-12",
+        "Episode": "12",
+        "imdbRating": "8.6",
+        "imdbID": "tt6083960"
+      },
+      {
+        "Title": "Caliban's War",
+        "Released": "2017-04-19",
+        "Episode": "13",
+        "imdbRating": "8.9",
+        "imdbID": "tt5580030"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Expanse",
+    "Season": "3",
+    "totalSeasons": "5",
+    "Episodes": [
+      {
+        "Title": "Fight or Flight",
+        "Released": "2018-04-11",
+        "Episode": "1",
+        "imdbRating": "8.7",
+        "imdbID": "tt6665296"
+      },
+      {
+        "Title": "IFF",
+        "Released": "2018-04-18",
+        "Episode": "2",
+        "imdbRating": "8.9",
+        "imdbID": "tt6665300"
+      },
+      {
+        "Title": "Assured Destruction",
+        "Released": "2018-04-25",
+        "Episode": "3",
+        "imdbRating": "8.8",
+        "imdbID": "tt6665304"
+      },
+      {
+        "Title": "Reload",
+        "Released": "2018-05-02",
+        "Episode": "4",
+        "imdbRating": "8.9",
+        "imdbID": "tt6665310"
+      },
+      {
+        "Title": "Triple Point",
+        "Released": "2018-05-09",
+        "Episode": "5",
+        "imdbRating": "9.4",
+        "imdbID": "tt6665312"
+      },
+      {
+        "Title": "Immolation",
+        "Released": "2018-05-16",
+        "Episode": "6",
+        "imdbRating": "9.5",
+        "imdbID": "tt6665314"
+      },
+      {
+        "Title": "Delta-V",
+        "Released": "2018-05-23",
+        "Episode": "7",
+        "imdbRating": "8.5",
+        "imdbID": "tt6665320"
+      },
+      {
+        "Title": "It Reaches Out",
+        "Released": "2018-05-30",
+        "Episode": "8",
+        "imdbRating": "9.2",
+        "imdbID": "tt6665326"
+      },
+      {
+        "Title": "Intransigence",
+        "Released": "2018-06-06",
+        "Episode": "9",
+        "imdbRating": "8.4",
+        "imdbID": "tt6665336"
+      },
+      {
+        "Title": "Dandelion Sky",
+        "Released": "2018-06-13",
+        "Episode": "10",
+        "imdbRating": "N/A",
+        "imdbID": "tt6665350"
+      },
+      {
+        "Title": "Fallen World",
+        "Released": "2018-06-20",
+        "Episode": "11",
+        "imdbRating": "8.7",
+        "imdbID": "tt6665354"
+      },
+      {
+        "Title": "Congregation",
+        "Released": "2018-06-27",
+        "Episode": "12",
+        "imdbRating": "8.9",
+        "imdbID": "tt6665358"
+      },
+      {
+        "Title": "Abaddon's Gate",
+        "Released": "2018-06-27",
+        "Episode": "13",
+        "imdbRating": "9.4",
+        "imdbID": "tt6665364"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Expanse",
+    "Season": "4",
+    "totalSeasons": "5",
+    "Episodes": [
+      {
+        "Title": "New Terra",
+        "Released": "2019-12-13",
+        "Episode": "1",
+        "imdbRating": "8.7",
+        "imdbID": "tt8477674"
+      },
+      {
+        "Title": "Jetsam",
+        "Released": "2019-12-13",
+        "Episode": "2",
+        "imdbRating": "8.7",
+        "imdbID": "tt8665808"
+      },
+      {
+        "Title": "Subduction",
+        "Released": "2019-12-13",
+        "Episode": "3",
+        "imdbRating": "8.5",
+        "imdbID": "tt8665812"
+      },
+      {
+        "Title": "Retrograde",
+        "Released": "2019-12-13",
+        "Episode": "4",
+        "imdbRating": "8.4",
+        "imdbID": "tt8665818"
+      },
+      {
+        "Title": "Oppressor",
+        "Released": "2019-12-13",
+        "Episode": "5",
+        "imdbRating": "8.4",
+        "imdbID": "tt8665822"
+      },
+      {
+        "Title": "Displacement",
+        "Released": "2019-12-13",
+        "Episode": "6",
+        "imdbRating": "8.7",
+        "imdbID": "tt8665826"
+      },
+      {
+        "Title": "A Shot in the Dark",
+        "Released": "2019-12-13",
+        "Episode": "7",
+        "imdbRating": "8.6",
+        "imdbID": "tt8665828"
+      },
+      {
+        "Title": "The One-Eyed Man",
+        "Released": "2019-12-13",
+        "Episode": "8",
+        "imdbRating": "8.7",
+        "imdbID": "tt8665830"
+      },
+      {
+        "Title": "Saeculum",
+        "Released": "2019-12-13",
+        "Episode": "9",
+        "imdbRating": "9.2",
+        "imdbID": "tt8665838"
+      },
+      {
+        "Title": "Cibola Burn",
+        "Released": "2019-12-13",
+        "Episode": "10",
+        "imdbRating": "9.1",
+        "imdbID": "tt8665842"
+      }
+    ],
+    "Response": "True"
+  },
+  {
+    "Title": "The Expanse",
+    "Season": "5",
+    "totalSeasons": "5",
+    "Episodes": [
+      {
+        "Title": "Exodus",
+        "Released": "2020-12-16",
+        "Episode": "1",
+        "imdbRating": "8.3",
+        "imdbID": "tt10706942"
+      },
+      {
+        "Title": "Churn",
+        "Released": "2020-12-16",
+        "Episode": "2",
+        "imdbRating": "8.7",
+        "imdbID": "tt12355654"
+      },
+      {
+        "Title": "Mother",
+        "Released": "2020-12-16",
+        "Episode": "3",
+        "imdbRating": "8.8",
+        "imdbID": "tt11323466"
+      },
+      {
+        "Title": "Gaugamela",
+        "Released": "2020-12-23",
+        "Episode": "4",
+        "imdbRating": "9.5",
+        "imdbID": "tt12355672"
+      },
+      {
+        "Title": "Down and Out",
+        "Released": "2020-12-30",
+        "Episode": "5",
+        "imdbRating": "8.7",
+        "imdbID": "tt12355680"
+      },
+      {
+        "Title": "Tribes",
+        "Released": "2021-01-06",
+        "Episode": "6",
+        "imdbRating": "8.1",
+        "imdbID": "tt12355684"
+      },
+      {
+        "Title": "Oyedeng",
+        "Released": "2021-01-13",
+        "Episode": "7",
+        "imdbRating": "8.0",
+        "imdbID": "tt12355688"
+      },
+      {
+        "Title": "Hard Vacuum",
+        "Released": "2021-01-20",
+        "Episode": "8",
+        "imdbRating": "7.6",
+        "imdbID": "tt12355696"
+      },
+      {
+        "Title": "Winnipesaukee",
+        "Released": "2021-01-27",
+        "Episode": "9",
+        "imdbRating": "N/A",
+        "imdbID": "tt12355702"
+      },
+      {
+        "Title": "Nemesis Games",
+        "Released": "2021-02-03",
+        "Episode": "10",
+        "imdbRating": "8.7",
+        "imdbID": "tt12355704"
+      }
+    ],
+    "Response": "True"
+  }
+]
