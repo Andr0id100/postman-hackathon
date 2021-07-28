@@ -9,7 +9,7 @@ var svg = d3.select(".board")
     .attr("transform",
         `translate(0, ${margin.top})`)
 
-RADIUS = 80
+RADIUS = 50
 SEASON_COUNT = 10
 
 EPISODE_SIZE = 8
